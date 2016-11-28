@@ -1,3 +1,5 @@
-# VR-Input-Devices-for-Q-R
+# Targeting-in-VR
 
-Create an Unity App for VR in which questionnaires are filled out with different input devices.
+
+
+
